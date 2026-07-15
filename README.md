@@ -6,19 +6,6 @@ O **RETNI** é uma aplicação web desenvolvida para gerenciamento financeiro pe
 
 O projeto foi desenvolvido como parte do **Tech Challenge da Pós-Graduação**, aplicando conceitos modernos de desenvolvimento web, arquitetura de software, autenticação, persistência de dados, microfrontends e computação em nuvem.
 
----
-
-# 🚀 Demonstração
-
-## Aplicação
-
-> https://SEU-LINK-VERCEL.vercel.app
-
-## Repositório
-
-> https://github.com/SEU-USUARIO/retni-controle-financeiro
-
----
 
 # ✨ Funcionalidades
 
@@ -71,7 +58,7 @@ Responsável por:
 
 ### Dashboard Remote
 
-Responsável pela exibição dos indicadores financeiros, gráficos e resumo das movimentações.
+Responsável pela exibição dos indicadores financeiros, gráfico e resumo das movimentações.
 
 ### Transactions Remote
 
@@ -153,7 +140,7 @@ Responsável pelo gerenciamento das transações financeiras (CRUD, filtros e co
 ## 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/retni-controle-financeiro.git
+git clone https://github.com/Manoellavs/RETNI--controle-finans.git
 ```
 
 ## 2. Acessar o projeto
@@ -240,22 +227,6 @@ A autenticação é realizada utilizando **Better Auth**, garantindo:
 
 ---
 
-# 📈 Melhorias Futuras
-
-Como evolução do projeto, podem ser implementadas funcionalidades como:
-
-- metas financeiras;
-- planejamento de orçamento mensal;
-- exportação em PDF;
-- exportação em Excel;
-- notificações automáticas;
-- integração com instituições financeiras;
-- dashboards avançados com novos indicadores.
-
----
-
 # 👩‍💻 Autora
 
 **Manoella Vieira**
-
-Projeto desenvolvido para **Tech Challenge da Pós-Graduação**, aplicando conceitos de arquitetura de software, desenvolvimento web moderno, microfrontends, autenticação, persistência de dados e boas práticas de engenharia de software.
