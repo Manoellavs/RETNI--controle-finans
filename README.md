@@ -213,7 +213,7 @@ pnpm dev:all
 # ☁️ Deploy
 
 O projeto encontra-se hospedado na plataforma **Vercel**, utilizando banco de dados PostgreSQL hospedado no **Neon Database**.
-https://retni-controle-finans-ji25uumge-manoellas-projects.vercel.app/sign-in
+https://retni-controle-finans.vercel.app/sign-in
 
 ---
 
